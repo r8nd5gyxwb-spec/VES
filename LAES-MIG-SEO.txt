@@ -1,0 +1,30 @@
+VÆS SEO-pakke — 22. september 2026
+
+UPLOAD TIL GITHUB
+1. Pak ZIP-filen ud.
+2. Upload INDHOLDET af denne mappe til roden af det eksisterende VES-repository.
+3. index.html, CNAME, robots.txt og sitemap.xml skal ligge direkte i roden.
+4. Behold "Commit directly to main".
+5. Når GitHub Pages er færdig, kontrollér https://ves.dk/
+
+SEO DER ER BYGGET IND
+- Unikke, crawlbare URL'er til hver artikel
+- Unikke title-tags og meta descriptions
+- Canonical URL på alle sider
+- Open Graph/Twitter metadata
+- Article / Organization / WebSite JSON-LD
+- Semantiske H1/H2-strukturer
+- Interne HTML-links
+- sitemap.xml
+- robots.txt
+- max-image-preview:large
+- Beskrivende alt-tekster
+- Mobilvenligt layout
+- 404-side
+
+VIGTIGT EFTER UPLOAD
+Tilslut ves.dk til Google Search Console, verificér domænet, indsend:
+https://ves.dk/sitemap.xml
+og brug URL Inspection på forsiden og de tre artikel-URL'er.
+
+Bemærk: Teknisk/on-page SEO kan gøre siderne forståelige og indekserbare, men ingen kan garantere en placering på Googles forside. Rangering afhænger også af bl.a. konkurrencen, autoritet, links, aktualitet og kvalitet over tid.
