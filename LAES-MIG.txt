@@ -1,0 +1,9 @@
+VÆS – første fungerende design
+
+Åbn index.html for lokal visning.
+
+GitHub: Pak ZIP-filen ud. Upload indholdet af mappen vaes-site til roden af VES-repositoriet via Add file > Upload files. index.html skal ligge ved siden af README.md, ikke i en undermappe. Medtag assets, style.css, script.js og CNAME.
+
+Den godkendte bilhistorie er med i fuld længde. Øvrige historier er tydeligt markerede udkast/på vej. Kontaktoplysninger og virksomhedsoplysninger skal udfyldes inden lancering.
+
+Billederne er præcis dem fra den godkendte mockup. CSS viser udsnit af originalbilledet, som ligger i assets/illustrationer.png. Ingen eksterne biblioteker eller skrifttyper kræves.
